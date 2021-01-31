@@ -1,0 +1,3 @@
+PackageName,PackageType,Publisher,Version,ApplicationType,CollectionType,PackageSource,InstallationProgram,UninstallationProgram,OSRequirement,DetectionMethod(ProductCode),DetectionMethod(Reg Key),DeploymentPurpose
+Access_Panel_Extension_4.15.958.10-TestAPP5,Application,Microsoft,1,Script,Device,\\UNCPath\softwarelibrary$\Access_Panel_Extension_4.15.958.10_64Bit,Access_Panel_Extension_4.15.958.10.exe,,All x64 Windows 7 Client All x64 Windows 10,{4FFF7ECC-CCF7-4530-B938-E7812BB91186},,Available
+Access_Panel_Extension_4.15.958.10-TestAPP5,Package,Microsoft,1,,User,\\UNCPath\softwarelibrary$\Access_Panel_Extension_4.15.958.10_64Bit,Access_Panel_Extension_4.15.958.10.exe,,All x64 Windows 7 Client All x64 Windows 10,,,Require
